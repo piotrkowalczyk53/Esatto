@@ -1,0 +1,1 @@
+To run the application simply download all the .py files (whole App folder) and run main.py script (python3 App\main.py)
